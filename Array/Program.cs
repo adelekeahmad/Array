@@ -4,7 +4,7 @@ namespace Array;
     static void Main(String[] Args)
 {
         String[] userName = { "ahmad", "john", "tunde", "remi", "andrew", "faouq", "azeez" };
-        String[] password = { "come@1", "Hellloboy", "Himan*&", "hdkskjd&", "fyl;d[o0en", "justyou879@", };
+        String[] password = { "come@1", "Hellloboy", "Himan*&", "hdkskjd&", "fyldo0en", "justyou879@", };
         string[] schools = new string[7];
         schools[0] = "Oredola";
         schools[1] = "Sanni Luba";
